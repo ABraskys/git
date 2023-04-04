@@ -2,3 +2,7 @@ body {
     background: black;
     color: white;
 }
+p{
+    font-family: verdana;
+    font-size: 1.2em;
+}
